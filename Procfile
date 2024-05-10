@@ -1,1 +1,1 @@
-worker: python botretig1.py
+worker: python botrestig1.py
